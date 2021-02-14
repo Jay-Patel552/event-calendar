@@ -1,6 +1,6 @@
 # event-calendar
 according to the subject of the email received, create/change/delete events(if any) on the calendar
-* Operating system: Ubuntu 20.04.1 LTS
+
 * Language written: C
 
 files:
