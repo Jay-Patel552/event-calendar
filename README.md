@@ -10,5 +10,5 @@ files:
 * location_updater.c(contains main function):takes input from console and gives output on console. Input to the executable for this program can be given by eg "./location_updater<input.txt" where input.txt is a file having test cases
 * Makefile:using the provided Makefile.
  input.txt:File of test cases used.
-* ouput.txt:The output is generated on console of the terminal and it is copied and pasted in this file.
+* output.txt:The output is generated on console of the terminal and it is copied and pasted in this file.
 			
